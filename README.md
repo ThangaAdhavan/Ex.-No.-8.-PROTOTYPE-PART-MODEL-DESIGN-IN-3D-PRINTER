@@ -46,8 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="1851" height="980" alt="image" src="https://github.com/user-attachments/assets/c6118700-d631-4cd5-b919-75189a1f62df" />
-<img width="1854" height="984" alt="image" src="https://github.com/user-attachments/assets/beccd0db-3e8c-4925-8227-3d8f78c86448" />
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/79b4af14-fd0d-4ec8-94fd-e29b4a122d6f" />
 
 ### Name: THANGAADHAVAN S
 ### Register Number:  212225240168 / 25017124 
