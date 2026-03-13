@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### -- DATE: 12 - 03 - 2026 _ REF NO : 212225240168 / 25017124
+### -- DATE: 13 - 03 - 2026 _ REF NO : 212225240168 / 25017124
 ## -- AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -48,8 +48,6 @@
 ## Output:
 <img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/79b4af14-fd0d-4ec8-94fd-e29b4a122d6f" />
 
-### Name: THANGAADHAVAN S
-### Register Number:  212225240168 / 25017124 
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
